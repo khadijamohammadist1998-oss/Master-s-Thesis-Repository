@@ -72,7 +72,7 @@ The proposed CNN-based BERT model achieved the highest performance, reaching:
 
 ## 📄 Full Thesis
 
-🔗 
+🔗 https://tez.yok.gov.tr/UlusalTezMerkezi/tezSorguSonucYeni.jsp
 
 ---
 
